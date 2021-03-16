@@ -1,0 +1,14 @@
+{
+  "name": "zenn.dev",
+  "repository": "git@github.com:dc7290/zenn.dev.git",
+  "author": "dc7290",
+  "license": "UNLICENSED",
+  "scripts": {
+    "article": "zenn new:article",
+    "book": "zenn new:book",
+    "preview": "zenn preview"
+  },
+  "dependencies": {
+    "zenn-cli": "^0.1.75"
+  }
+}
